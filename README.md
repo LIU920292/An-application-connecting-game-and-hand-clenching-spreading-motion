@@ -20,7 +20,13 @@ To run our application, these dependencies should be needed.
         
 Hope you could find some new issues and get involved with the further extension of this application.
 
-Folders runner-mac and runner-windows is for using new_final.py.
+To download the game Runner to run new_final.py, please click this link to download.
+
+https://drive.google.com/file/d/13zOxX6-xtY2e-WNop0jKD-6g5qb3GvAb/view?usp=sharing For Windows users
+
+
+https://drive.google.com/file/d/12EXF9hpwczbnQmETVPF_uMn_IU9kSEAf/view?usp=sharing For MacOS users
+
 
 P.S. The code itself has referenced from 2 links below.
 
