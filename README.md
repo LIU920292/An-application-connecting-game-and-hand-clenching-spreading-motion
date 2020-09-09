@@ -34,3 +34,12 @@ https://github.com/victordibia/handtracking
 
 https://github.com/lzane/Fingers-Detection-using-OpenCV-and-Python
 
+
+#IMPORTANT#
+
+as the pymsgbox has a new version on 1.0.8 on 24th May, you should download the pymsgbox like
+
+pip install pymsgbox==1.0.7
+
+Then download the dependencies on requirements.txt.
+
